@@ -1,1 +1,1 @@
-[patika]("https://www.patika.dev/tr")
+# [Patika](https://www.patika.dev/tr)
