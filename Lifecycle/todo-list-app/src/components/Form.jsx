@@ -63,14 +63,14 @@ function Form({ inputText, setInputText, todos, setTodos, setStatus }) {
       <div className="alert-wrapper">
         {alertWarning ? (
           <div className="alert-warning">
-            <div>Input alanı boş geçilemez!</div>
+            <div>Input field cannot be empty!</div>
           </div>
         ) : (
           ""
         )}
         {alertSuccess ? (
           <div className="alert-success">
-            <div>Ekleme Başarılı.</div>
+            <div>Adding successful.</div>
           </div>
         ) : (
           ""
