@@ -40,7 +40,7 @@ function Form({ inputText, setInputText, todos, setTodos, setStatus }) {
           value={inputText}
           type="text"
           className="todo-input"
-          placeholder="Add..."
+          placeholder="Add to list"
           onChange={inputTextHandler}
         />
         <button
